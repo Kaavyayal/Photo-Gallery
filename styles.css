@@ -9,7 +9,7 @@ body{
   length: 300px;
   position: relative;
   top: 8px;
-  border: black 5px solid;
+  border: gold 5px solid;
 }
 .one {
   align-items: flex-start;
@@ -27,7 +27,7 @@ body{
 .BAM{
   width: 300px;
   length:300px;
-  border: black 5px solid;
+  border: gold 5px solid;
 }
 .BrunoMars{
   width: 300px;
@@ -42,7 +42,7 @@ body{
 .JonasBros{
   width: 400px;
   length:1000px;
-  border: black 5px solid;
+  border: gold 5px solid;
 }
 .JustinT{
   width: 300px;
@@ -57,7 +57,7 @@ body{
 .MaroonFive{
   width: 300px;
   length:300px;
-  border: black 5px solid;
+  border: gold 5px solid;
 }
 .OneDirection{
   width: 400px;
@@ -68,7 +68,7 @@ body{
 .Ruel{
   width: 300px;
   length:300px;
-  border: black 5px solid;
+  border: gold 5px solid;
 }
 .PostMalone{
   width:400px;
@@ -83,12 +83,12 @@ body{
 .Adele{
   width: 300px;
   length:300px;
-  border: black 5px solid;
+  border: gold 5px solid;
 }
 .theKeys{
   width: 450px;
   length:300px;
-  border: black 5px solid;
+  border: gold 5px solid;
 }
 .theGrande{
   width: 300px;
@@ -108,7 +108,7 @@ body{
 .theHorse{
   width: 300px;
   length:300px;
-  border: black 5px solid;
+  border: gold 5px solid;
 }
 .DemiLovato{
   width: 300px;
@@ -126,12 +126,34 @@ body{
 .MeghanTrainor{
   width: 300px;
   length:300px;
-  border: black 5px solid;
+  border: gold 5px solid;
 }
 
 .NineBall{
-  {
     width: 300px;
     length:300px;
     border: black 5px solid;
+}
+
+.SelenaG{
+    width: 300px;
+    length:300px;
+    border: black 5px solid;
+}
+.Shakira{
+      width: 300px;
+      length:300px;
+      border: black 5px solid;
+}
+
+.ChristinaA{
+border: black 5px solid;
+}
+
+.theGold{
+border: gold 5px solid;
+}
+
+.TaylorS{
+  border: black 5px solid;
 }
